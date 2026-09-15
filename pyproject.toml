@@ -3,6 +3,9 @@ name = "genai-master-presentation"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+authors = [
+    { name = "Fredheda", email = "frederik.heda@gmx.net" }
+]
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "jupyterlab (>=4.6.3,<5.0.0)",
